@@ -7,6 +7,6 @@ describe("GET /", () => {
     const response = await request.get("/");
 
     expect(response.status).toBe(200);
-    expect(response.body.message).toBe("Hello world new people");
+    expect(response.body.message).toBe("Hello world");
   });
 });

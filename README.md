@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/CIRCLECI-GWP/circleci-building-docker-example.svg?style=svg)](https://circleci.com/gh/CIRCLECI-GWP/circleci-building-docker-example)
+[![CircleCI](https://circleci.com/gh/CIRCLECI-GWP/circleci-building-docker-image.svg?style=svg)](https://circleci.com/gh/CIRCLECI-GWP/circleci-building-docker-image)
 
 <p align="center"><img src="https://avatars3.githubusercontent.com/u/59034516"></p>
 
